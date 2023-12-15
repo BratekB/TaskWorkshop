@@ -1,11 +1,11 @@
 # TaskWorkshop
 Console program for managing tasks.
 
-#Installation
+# Installation
 No installation is needed.
 
-#AUTHOR
+# AUTHOR
 Bartłomiej Bednarski
 
-#LICENCE
+# LICENCE
 Free to use
