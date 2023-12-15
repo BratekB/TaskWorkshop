@@ -4,8 +4,8 @@ Console program for managing tasks.
 # Installation
 No installation is needed.
 
-# AUTHOR
+# Author
 Bartłomiej Bednarski
 
-# LICENCE
+# Licence
 Free to use
